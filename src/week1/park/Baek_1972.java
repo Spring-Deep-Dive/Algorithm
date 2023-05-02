@@ -9,4 +9,8 @@ public class Baek_1972 {
     public static void solve() {
 
     }
+
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
 }
