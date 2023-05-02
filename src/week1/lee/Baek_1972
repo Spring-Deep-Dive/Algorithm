@@ -1,0 +1,40 @@
+def check(str):
+  diff = 1
+  temp = []
+  #diff는 차이 1부터 len -1 까지
+  #start는 시작점
+  while diff < len(str):
+    for start in range(0, len(str) - 1):
+      if start + diff < len(str):
+        temp.append(str[start] + str[start + diff])
+    # print(temp)
+    diff += 1
+
+    #중복이 있다는 것은 집합으로 변환한 길이와 총길이가 같다는 뜻
+    #집합은 중복을 제외하므로
+    if len(temp) != len(set(temp)):
+      # 중복 존재
+      return 0
+
+    temp = []
+
+  #while문이 정상적으로 끝나면 1반환
+  else:
+    return 1
+
+
+answer = []
+
+while 1:
+  str = list(input())
+  str2 = ''.join(str)
+  if str2 == "*":
+    break
+  else:
+    if check(str) == 0:
+      answer.append(str2 + " is NOT surprising.")
+    else:
+      answer.append(str2 + " is surprising.")
+
+for a in answer:
+  print(a)
