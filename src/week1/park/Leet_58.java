@@ -1,4 +1,3 @@
-package week1.park;
 
 /**
  * week 1 String

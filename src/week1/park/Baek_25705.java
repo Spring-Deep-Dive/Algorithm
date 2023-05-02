@@ -1,5 +1,3 @@
-package week1.park;
-
 /**
  * week1 String
  * 백준 25705
@@ -7,6 +5,10 @@ package week1.park;
  */
 public class Baek_25705 {
     public static void solve() {
+
+    }
+
+    public static void main(String[] args) {
 
     }
 }

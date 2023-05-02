@@ -1,5 +1,3 @@
-package week1.park;
-
 /**
  * week 1 String
  * Leetcode 171
