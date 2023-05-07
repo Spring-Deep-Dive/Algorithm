@@ -15,9 +15,17 @@ TBD
 
   [백준 1972 - 놀라운 문자열](https://www.acmicpc.net/problem/1972)
 
+### Week2 - Stack
 
-- stack
-- queue, deck
+  [프로그래머스 올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
+
+  [리트코드 2375 Construct smallest number from di string](https://leetcode.com/problems/construct-smallest-number-from-di-string/)
+
+### Week3 - Queue, Deck
+
+---
+
+
 - brute force
     - sorting
 - recursion
