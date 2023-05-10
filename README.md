@@ -21,7 +21,11 @@ TBD
 
   [리트코드 2375 Construct smallest number from di string](https://leetcode.com/problems/construct-smallest-number-from-di-string/)
 
-### Week3 - Queue, Deck
+### Week3 - Queue, Deque
+  
+  [리트코드 59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
+  
+  [프로그래머스 이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)
 
 ---
 
