@@ -27,6 +27,12 @@ TBD
   
   [프로그래머스 이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)
 
+### Week 4 - Brute Force
+  
+  [백준 1018 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
+  
+  [리트코드 1552. Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/)
+
 ---
 
 
