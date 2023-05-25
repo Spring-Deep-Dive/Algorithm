@@ -1,8 +1,6 @@
 import java.util.Arrays;
 
 class Solution {
-    
-    private static final int MAX = Integer.MIN_VALUE;
 
     public int maxDistance(int[] position, int m) {
         Arrays.sort(position);
