@@ -33,11 +33,14 @@ TBD
   
   [리트코드 1552. Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/)
 
+### Week 5 - Recursion
+
+  [백준 2448 별찍기 - 11](https://www.acmicpc.net/problem/2448)
+  
+  [리트코드 143. Reorder List](https://leetcode.com/problems/reorder-list/)
+
 ---
 
-
-- brute force
-    - sorting
 - recursion
 - backtracking
 - Dynamic Programming *
