@@ -39,10 +39,16 @@ TBD
   
   [리트코드 143. Reorder List](https://leetcode.com/problems/reorder-list/)
 
+### Week 6 - Backtracking
+
+  [백준 15649 N과 M (1)](https://www.acmicpc.net/problem/15649)
+  
+  [리트코드 844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
+
+  [백준 9663 N-Queen](https://www.acmicpc.net/problem/9663) 
+  
 ---
 
-- recursion
-- backtracking
 - Dynamic Programming *
     - cumulative sum
 - Greedy
