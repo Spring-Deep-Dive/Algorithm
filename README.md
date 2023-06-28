@@ -46,11 +46,19 @@ TBD
   [리트코드 844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 
   [백준 9663 N-Queen](https://www.acmicpc.net/problem/9663) 
+
+### Week 7 - Dynamic Programming
+
+  [백준 1463 1로 만들기](https://www.acmicpc.net/problem/1463)  
+
+  [이친수](https://www.acmicpc.net/problem/2193)  
+
+  [2×n 타일링](https://www.acmicpc.net/problem/11726)  
+
+  [평범한 배낭](https://www.acmicpc.net/problem/12865)  
   
 ---
 
-- Dynamic Programming *
-    - cumulative sum
 - Greedy
 - divide and conquer *
 - Binary Search
@@ -69,3 +77,4 @@ TBD
 ### reference
 - [https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
 - [https://www.acmicpc.net/step](https://www.acmicpc.net/step)
+- [https://blog.naver.com/PostList.naver?blogId=kks227](https://blog.naver.com/PostList.naver?blogId=kks227)
