@@ -51,11 +51,11 @@ TBD
 
   [백준 1463 1로 만들기](https://www.acmicpc.net/problem/1463)  
 
-  [이친수](https://www.acmicpc.net/problem/2193)  
+  [백준 이친수](https://www.acmicpc.net/problem/2193)  
 
-  [2×n 타일링](https://www.acmicpc.net/problem/11726)  
+  [백준 2×n 타일링](https://www.acmicpc.net/problem/11726)  
 
-  [평범한 배낭](https://www.acmicpc.net/problem/12865)  
+  [백준 평범한 배낭](https://www.acmicpc.net/problem/12865)  
   
 ---
 
