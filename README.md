@@ -56,10 +56,17 @@ TBD
   [백준 2×n 타일링](https://www.acmicpc.net/problem/11726)  
 
   [백준 평범한 배낭](https://www.acmicpc.net/problem/12865)  
+
+### Week 8 - Greedy  
+
+  [백준 설탕 배달](https://www.acmicpc.net/problem/2839)  
+
+  [백준 신입사원](https://www.acmicpc.net/problem/1946)  
+
+  [프로그래머스 체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)  
   
 ---
 
-- Greedy
 - divide and conquer *
 - Binary Search
 - Priority Queue
@@ -77,4 +84,4 @@ TBD
 ### reference
 - [https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
 - [https://www.acmicpc.net/step](https://www.acmicpc.net/step)
-- [https://blog.naver.com/PostList.naver?blogId=kks227](https://blog.naver.com/PostList.naver?blogId=kks227)
+- [https://blog.naver.com/PostList.naver?blogId=kks227](https://blog.naver.com/PostView.naver?blogId=kks227&logNo=221635322468&parentCategoryNo=&categoryNo=299&viewDate=&isShowPopularPosts=false&from=postList)
